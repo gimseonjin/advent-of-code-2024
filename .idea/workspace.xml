@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fa48322-8406-4cee-aaf6-76860d9d5487" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/main/src/me/gimseonjin/aoc2024/day2/problem1/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/me/gimseonjin/aoc2024/day2/problem1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/me/gimseonjin/aoc2024/day2/problem2/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/me/gimseonjin/aoc2024/day2/problem2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/META-INF/main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/META-INF/main.kotlin_module" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt (1).executor": "Run",
+    "Kotlin.MainKt (2).executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/enkia/Documents/GitHub/advent-of-code-2024/main/src/me/gimseonjin/aoc2024/day2/problem2",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/src/me/gimseonjin/aoc2024/day2/problem2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.gimseonjin.aoc2024.day2.problem1.MainKt" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.gimseonjin.aoc2024.day2.problem2.MainKt" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.gimseonjin.aoc2024.day1.problem1.MainKt" />
       <module name="main" />
@@ -10,8 +66,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
+        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
   </component>
 </project>
